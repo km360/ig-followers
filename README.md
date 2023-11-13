@@ -1,6 +1,6 @@
 # Instagram Followers Utility
 - `unfollow.py` prints out users who do not follow you back. 
-- `follow.py` print out users you do not follow back. 
+- `follow.py` prints out users you do not follow back. 
 
 ## Usage
 1. Request your account data from your Instagram account in JSON format. Instructions can be found [here](https://help.instagram.com/181231772500920).
